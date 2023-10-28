@@ -184,51 +184,6 @@
   color: #23856D;
   font-weight: 900;
 }
-#main .section3 .section3_item2 .section3_item {
-  background-color: whitesmoke;
-}
-#main .section3 .section3_item2 .section3_item .sale {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-#main .section3 .section3_item2 .section3_item .sale .old_sale {
-  color: #737373;
-}
-#main .section3 .section3_item2 .section3_item .sale .new_sale {
-  color: #23856D;
-  font-weight: 900;
-}
-#main .section3 .section3_item3 .section3_item {
-  background-color: whitesmoke;
-}
-#main .section3 .section3_item3 .section3_item .sale {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-#main .section3 .section3_item3 .section3_item .sale .old_sale {
-  color: #737373;
-}
-#main .section3 .section3_item3 .section3_item .sale .new_sale {
-  color: #23856D;
-  font-weight: 900;
-}
-#main .section3 .section3_item3 .section3_item {
-  background-color: whitesmoke;
-}
-#main .section3 .section3_item3 .section3_item .sale {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-#main .section3 .section3_item3 .section3_item .sale .old_sale {
-  color: #737373;
-}
-#main .section3 .section3_item3 .section3_item .sale .new_sale {
-  color: #23856D;
-  font-weight: 900;
-}
 #main .brands {
   display: flex;
   align-items: center;
