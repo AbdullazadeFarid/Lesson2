@@ -1,0 +1,530 @@
+
+
+#header{
+    
+    
+
+    
+    .header_list{
+        
+        background-color: #23856D;
+        padding-top: 2%;
+    padding-bottom: 7px;
+        font-size: 18px;
+        align-items: flex-end;
+        
+        display: flex;
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+
+
+        .header_tex4{
+            margin-right: 10px;
+        }
+        .header_tex1{
+            font-size: 12px;
+        }
+        
+        .header_list_item{
+            display: flex;
+            align-items: center;
+            
+            
+    margin-left: 7%;
+
+    img{
+        margin-right: 10px;
+    }
+            
+
+            
+        }
+    }
+
+
+    // HEADERIN birinci hissesinin sonu !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ul,li{
+    list-style-type: none;
+    
+}
+
+
+#header1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 93%;
+    margin-left: 5%;
+   
+    .bandage{
+        
+            font-size: 30px;
+            font-weight:bold;        
+        
+       
+
+    }
+
+    .navigation{
+        display: flex;
+        width: 48%;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-right: 79px;
+        color: #737373;
+        font-weight: 600;
+        cursor: pointer;
+        :hover{
+            background-color:black;
+            
+        }
+
+        .select{
+            border: none;
+            color: #737373;
+            font-weight: 600;
+        }
+        
+
+        
+    }
+
+    .icon{
+        display: flex;
+        align-items: center;
+        width: 19%;
+    justify-content: space-evenly;
+    cursor: pointer;
+    :hover{
+        background-color: #23856D;
+    }
+        
+        .btn{
+            border: none;
+    background-color: white;
+    color: #23a6f0;
+    font-weight: 600;
+    
+            
+
+        }
+        .search{
+            cursor: pointer;
+            
+            
+            
+
+        }
+        .box{
+            margin-right: 10px;
+            cursor: pointer;
+            
+        }
+        .heirt{
+           
+        }
+    }
+}
+
+
+    
+    
+
+    }
+
+
+
+    // HEADERIN SONU !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+    // MAININ EVVELI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+    #main{
+        #section{
+            .section_items{
+                margin-left: 9%;
+                display: flex;
+                align-items: center;
+                .section_item{
+                   margin-left: 10px;
+                   color: #737373;
+                    
+                }
+               } 
+              }
+
+           #image_product{
+            margin-left: 9%;
+    margin-top: 1%;
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    margin-left: 2px;
+               
+                .icon_product{
+                    width: 506px;
+                    height: 450px;
+                    position: relative;
+                    background-image: url(./image/single-product-1-cover-2.png);
+                    margin-left: 9%;
+
+                    
+                    .left_icon{
+                        position: absolute;
+                        bottom: 50%;
+                        cursor: pointer;
+                        
+
+                    }
+                    .right_icon{
+                        position: absolute;
+                        right: 10px;
+                        bottom: 50%;
+                        cursor: pointer;
+                        
+                    }
+                }
+           }
+
+           .product_characteristic{
+            margin-left: 6%;
+
+            .btn_select{
+                display: flex;
+                 align-items: center;
+                  margin-top: 55px;
+                 .Select_Option{
+                    
+                    font-family: sans-serif;
+                     color: white;
+                       width: 31%;
+                        height: 46px;
+                         border-radius: 7px;
+                          border: none;
+                        background-color: #23A6F0;
+                           cursor: pointer;
+
+                           
+                   
+                 }
+                   
+               img{
+                margin-left: 15px;
+                cursor: pointer;
+                
+                :hover{
+                    background-color: #23A6F0;
+
+                }
+               }
+            }
+           
+           }
+
+           .descr{
+            display: flex;
+            align-items: center;
+    justify-content: center;
+    margin-left: 14%;
+    margin-top: 7%;
+    margin-right: 40%;
+    
+    p{
+        margin-left:10%;
+    }
+
+            
+           }
+
+           .section2{
+            display: flex;
+            justify-content: space-evenly;
+            margin-top: 7%;
+
+            .section2_image{
+                border: 1px solid;
+                padding: 10px;
+                box-shadow: 5px 10px #737373;
+            }
+            
+           }
+
+
+
+           .sec2_sec3{
+            margin: 0 5%; 
+            margin-top: 9%;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+           }
+
+
+
+
+           .section3{
+            
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            margin-top: 4%;
+
+
+            
+            .section3_item1{
+
+                .section3_item{
+                    background-color:whitesmoke;
+
+                    .sale{
+                        display: flex;
+                        align-items: center;
+                      justify-content: space-between;
+
+                           .old_sale{
+                            color: #737373;
+
+                           }
+                           .new_sale{
+                           color:#23856D ; 
+                           font-weight: 900;
+
+                           }
+                       
+                        
+                        
+   
+                    }
+                }
+
+            }
+            
+
+            .section3_item2{
+
+                .section3_item{
+                    background-color:whitesmoke;
+
+                    .sale{
+                        display: flex;
+                        align-items: center;
+                      justify-content: space-between;
+
+                           .old_sale{
+                            color: #737373;
+
+                           }
+                           .new_sale{
+                           color:#23856D ; 
+                           font-weight: 900;
+
+                           }
+                       
+                        
+                        
+   
+                    }
+                }
+
+            }
+
+            .section3_item3{
+
+                .section3_item{
+                    
+                    background-color:whitesmoke;
+
+                    .sale{
+                        display: flex;
+                        align-items: center;
+                      justify-content: space-between;
+
+                           .old_sale{
+                            color: #737373;
+
+                           }
+                           .new_sale{
+                           color:#23856D ; 
+                           font-weight: 900;
+
+                           }
+                       
+                        
+                        
+   
+                    }
+                }
+
+            }
+
+            .section3_item3{
+
+                .section3_item{
+                    background-color:whitesmoke;
+
+                    .sale{
+                        display: flex;
+                        align-items: center;
+                      justify-content: space-between;
+
+                           .old_sale{
+                            color: #737373;
+
+                           }
+                           .new_sale{
+                           color:#23856D ; 
+                           font-weight: 900;
+
+                           }
+                       
+                        
+                        
+   
+                    }
+                }
+
+            }
+
+
+}
+
+     .brands{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        margin-top: 8%;
+     }       
+
+
+
+     .fb_ins_twtr{
+        display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 4%;
+    margin-top: 4%;
+
+
+    img{
+        margin-right: 15px;
+    }
+
+
+
+
+         }
+        
+     }
+
+
+            
+
+
+           
+           
+
+
+            
+        
+    
+
+
+
+
+
+    // FOOTERIN EVVELI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ 
+#footer{
+
+    ul,li{
+        list-style-type: none;
+        
+    }
+
+    .footer_items{
+        margin-left: -1%;
+       
+        cursor: pointer;
+        
+        :hover{
+            background-color: antiquewhite;
+        }
+        
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+        .footer_navigation{
+            font-size: medium;
+            margin-left: 20px;
+            
+
+            li{
+                color: #737373;
+                
+            }
+
+            
+
+            .nav_text{
+
+            }
+            .nav{
+                .nav_input{
+                    background-color: #F9F9F9;
+                     height: 49px;
+                       border: none;
+                       color: #737373;
+                       border-radius: 10px;
+
+                }
+                .nav_btn{
+                    width: 95px;
+                    height: 44px;
+                    border: white;
+                    background-color:#23A6F6;
+                    color: white;
+
+                    cursor: pointer;
+                    
+                    
+                   
+                }
+                .lorem{
+                    font-size: 9px;
+    color: #737373;
+                }
+
+            }
+
+        }
+
+    }
+    .footer_text{
+        margin-left: 40px;
+        color: #737373;
+        font-family: ui-monospace;
+        margin-top: 80px;
+
+    }
+}
+
+
+// FOOTERIN SONU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+@keyframes  search  {
+
+}
+
+
+
+
+
+
+
